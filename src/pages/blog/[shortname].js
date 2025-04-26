@@ -34,8 +34,16 @@ const BlogPost = () => {
 
       // Find corresponding blog
       setBlogInfo(blogs.filter((blog) => shortname === blog.shortname)[0]);
+
+      // Track page view for this blog post
+      if (typeof window.gtag !== 'undefined') {
+        window.gtag('event', 'page_view', {
+          page_path: `/blog/${shortname}`,
+          page_title: shortname,
+        });
+      }
     }
-  }, [router.isReady]);
+  }, [router.isReady, router.query.shortname]);
 
   return (
     <Layout isBlog={true}>
