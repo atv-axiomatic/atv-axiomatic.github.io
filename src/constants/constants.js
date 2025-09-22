@@ -7,7 +7,14 @@ export const workExps = [
     title: "Software Dev Engineer I",
     location: "Toronto, ON",
     description: [
-      "Currently working in the Amazon Ads org on the Unity Campaign Manager (UCM) software"
+      "Delivered major projects in the Amazon Advertising Console including the Multi-countries Dashboard (landing page), Global Campaigns (SVP goal), and Unified Sponsored Ads/DSP Ad Console Landing Page (S-team goal) serving 1.5M+ advertisers WW, and driving $X00M+ in WW revenue opportunities",
+      "Key contributor to development of internal dashboard framework (Typescript (React), GraphQL, Java (Spring), RESTful APIs, Jest) saving ~15 years annual dev time, delivering core components and service resolvers w/ integration tests",
+      "Led the design & development of the Global Campaigns Settings Detail page in the Amazon Advertising Console using Redux, React, and RESTful APIs to streamline campaign configuration for advertisers",
+      "Implemented global budget rules & budget recommendations across multi-country campaigns through React components development on the frontend with Java backend data aggregation services",
+      "Designed, developed and integrated key, re-usable components for several landing pages across Sponsored Ads and DSP surfaces via Server-side frameworks (Modern.js, Zustand, Tanstack Query)",
+      "Accelerated developer velocity by strengthening CI/CD pipelines with Cypress E2E and GraphQL/REST integration tests",
+      "Leveraged AWS (ECS, CloudWatch, IAM, CloudFormation, S3, CloudTrail) for containerized deployments, monitoring/debugging, access control, infrastructure automation, and compliance",
+      "Partnered with PMs, TPMs, SDMs, UX engineers and cross-functional teams to streamline technical implementation and alignment with customers/stakeholders",
     ],
     startDate: "Jan 2024",
     endDate: "Present",
