@@ -13,7 +13,7 @@ export const workExps = [
       "Implemented global budget rules & budget recommendations across multi-country campaigns through React components development on the frontend with Java backend data aggregation services",
       "Designed, developed and integrated key, re-usable components for several landing pages across Sponsored Ads and DSP surfaces via Server-side frameworks (Modern.js, Zustand, Tanstack Query)",
       "Accelerated developer velocity by strengthening CI/CD pipelines with Cypress E2E and GraphQL/REST integration tests",
-      "Leveraged AWS (ECS, CloudWatch, IAM, CloudFormation, S3, CloudTrail) for containerized deployments, monitoring/debugging, access control, infrastructure automation, and compliance",
+      "Leveraged AWS (ECS, CloudWatch, IAM, CloudFormation, S3) for containerized deployments, monitoring/debugging, access control, infrastructure automation, and compliance",
       "Partnered with PMs, TPMs, SDMs, UX engineers and cross-functional teams to streamline technical implementation and alignment with customers/stakeholders",
     ],
     startDate: "Jan 2024",
