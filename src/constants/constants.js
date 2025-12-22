@@ -326,5 +326,10 @@ export const TimeLineData = [
     year: 2024,
     month: "January",
     text: "SDE 1 at Amazon",
-  }
+  },
+  {
+    year: 2026,
+    month: "January",
+    text: "Completed MEng"
+  },
 ];
