@@ -168,7 +168,7 @@ const BlogHeader = () => {
               </HeaderItem>
               <SocialIcons
                 target="_blank"
-                href="https://github.com/DeluxeViper"
+                href="https://github.com/Atv-Axiomatic"
               >
                 <AiFillGithub size="3rem" />
               </SocialIcons>
