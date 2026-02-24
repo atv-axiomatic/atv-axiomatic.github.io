@@ -332,5 +332,5 @@ arXiv preprint arXiv:2107.03374, 2021.
 [13]	Qxf2 Services, “wtfiswronghere: A collection of Python programs with bugs for testing debugging skills,” GitHub repository, 2023.
 Available: https://github.com/qxf2/wtfiswronghere
 [14]	R. Just, D. Jalali, and M. D. Ernst, “Defects4J: A Database of Existing Faults to Enable Controlled Testing Studies for Java Programs,” in Proceedings of the International Symposium on Software Testing and Analysis (ISSTA), 2014, pp. 437–440.
-[15]	A. Mohamed and M. Baioumy, “Automated Bug Fix- ing - Prompt Engineering Study,” GitHub repository, 2024. Available: https://github.com/DeluxeViper/AutomatedBugFixing PromptEngineeringStudy
+[15]	A. Mohamed and M. Baioumy, “Automated Bug Fix- ing - Prompt Engineering Study,” GitHub repository, 2024. Available: https://github.com/atv-axiomatic/AutomatedBugFixing PromptEngineeringStudy
 

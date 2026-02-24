@@ -318,7 +318,7 @@ const Header = () => {
             <Div3>
               <SocialIcons
                 target="_blank"
-                href="https://github.com/DeluxeViper"
+                href="https://github.com/atv-axiomatic"
               >
                 <AiFillGithub size="3rem" />
               </SocialIcons>

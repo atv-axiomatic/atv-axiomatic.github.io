@@ -6,7 +6,7 @@ I learned a lot during this course about the world of Reinforcement Learning, wh
 
 Here is the report that Wangshun and I put together summarizing our accomplishment for this UAV Coverage Optimization project:
 
-Github Project Repository - https://github.com/DeluxeViper/RL_UAV_Coverage_Optimization
+Github Project Repository - https://github.com/atv-axiomatic/RL_UAV_Coverage_Optimization
 
 # Optimizing UAV Coverage for Distributed Users Using Deep Q-Learning
 

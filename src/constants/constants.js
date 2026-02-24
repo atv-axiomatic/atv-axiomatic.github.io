@@ -155,7 +155,7 @@ export const projects = [
       "Firebase Cloudstore DB",
       "Jira",
     ],
-    code: "https://github.com/DeluxeViper/SmartFridgeAddOn",
+    code: "https://github.com/atv-axiomatic/SmartFridgeAddOn",
     demo: "",
   },
   {
@@ -175,7 +175,7 @@ export const projects = [
       "Metamask",
       "IPFS",
     ],
-    code: "https://github.com/DeluxeViper/ECE1770-QV-DAO-DApp-Project/tree/main",
+    code: "https://github.com/atv-axiomatic/ECE1770-QV-DAO-DApp-Project/tree/main",
     demo: "https://quadradao-app.azurewebsites.net"
   },
   {
@@ -201,7 +201,7 @@ export const projects = [
       "Vaadin",
       "OAuth2.0",
     ],
-    code: "https://github.com/DeluxeViper/SmoothieWebsite",
+    code: "https://github.com/atv-axiomatic/SmoothieWebsite",
     demo: "",
   },
   {
@@ -212,7 +212,7 @@ export const projects = [
       "MemoryGo is a flashcard tool that lets you study without realization while you play games, surf the internet, watch a video, chat with friends or any other task.",
     image: `images/MemoryGo.png`,
     tags: ["Dart", "Java (Android)", "XML", "SQL (SQLite)", "Gradle"],
-    code: "https://github.com/DeluxeViper/Memorygo",
+    code: "https://github.com/atv-axiomatic/Memorygo",
     demo: "https://play.google.com/store/apps/details?id=com.ceruleansource.MemoryGo",
   },
   {
@@ -234,7 +234,7 @@ export const projects = [
       "Jira",
       "Figma",
     ],
-    code: "https://github.com/DeluxeViper/Cooking-Recipe-Suggestion-Web-App",
+    code: "https://github.com/atv-axiomatic/Cooking-Recipe-Suggestion-Web-App",
     demo: "",
   },
   {
@@ -245,7 +245,7 @@ export const projects = [
       "A mobile app that allows the user to either broadcast their own stream and/or find and join streams happening around them through a google maps populated with a series of markers that indicate the myriad of logged in users that might or might not be streaming.",
     image: `images/livestream.jpeg`,
     tags: ["Kotlin", "XML", "Room", "Retrofit", "OkHttp3", "Dagger", "GCP"],
-    code: "https://github.com/DeluxeViper/LivestreamApp",
+    code: "https://github.com/atv-axiomatic/LivestreamApp",
     demo: "",
   },
   {
@@ -264,7 +264,7 @@ export const projects = [
       "RTMP",
       "Docker (Compose)",
     ],
-    code: "https://github.com/DeluxeViper/livestreambackend-mongodb",
+    code: "https://github.com/atv-axiomatic/livestreambackend-mongodb",
     demo: "",
   },
   {
@@ -275,7 +275,7 @@ export const projects = [
       "A P2P application (created in C) that allows peers to share and download content through an index server via UDP and TCP communication. (Complete technical description on github)",
     image: `images/p2p_image.jpeg`,
     tags: ["C", "UDP", "TCP", "GCC", "Makefile"],
-    code: "https://github.com/DeluxeViper/TorrentClone",
+    code: "https://github.com/atv-axiomatic/TorrentClone",
     demo: "",
   },
   // {
